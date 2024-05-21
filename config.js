@@ -110,10 +110,10 @@ async function loadConfig() {
         global.brandc = (ImgLogoDynamic());
 
         /** Link  **/
-        global.sig = "https://www.instagram.com/wudysoft";
-        global.sgh = "https://www.github.com/AyGemuy";
-        global.sgc = "https://s.id/Taylor-V2";
-        global.sdc = "https://www.discord.com/wudysoft";
+        global.sig = "https://www.instagram.com/aril.narindra";
+        global.sgh = "https://www.github.com/babotzai";
+        global.sgc = "https://s.id/Kuna-V1";
+        global.sdc = "https://www.discord.com/KUNASOFT";
         global.snh = "https://www.tiktok.com/@upload_file";
         global.sfb = "https://www.facebook.com/";
         global.syt = "https://www.youtube.com/";
