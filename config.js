@@ -46,7 +46,7 @@ async function loadConfig() {
 
         /** Oᴡɴᴇʀ number  **/
         global.owner = [
-            ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", true]
+            ["6285704026706", "️Aril Narindra - 𝑶𝒘𝒏𝒆𝒓", true]
         ];
         global.mods = ["6282195322106"];
         global.prems = ["6282195322106"];
@@ -89,19 +89,19 @@ async function loadConfig() {
         global.xyro = "yqiBQF86F4";
 
         /** Number  **/
-        global.nomorbot = "6281779570422";
-        global.nomorown = "6282195322106";
-        global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ";
-        global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」";
+        global.nomorbot = "6285704026706";
+        global.nomorown = "6285704026706";
+        global.namebot = " kuna-ʙᴏᴛ あ⁩ ";
+        global.nameown = "「 Aril Narindra 」";
 
         /** Random  **/
         global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]);
         global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]);
 
         /** Watermark  **/
-        global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」";
+        global.wm = "                「 kuna-ʙᴏᴛ あ⁩ 」";
         global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷";
-        global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ";
+        global.wm3 = htjava + " kuna-ʙᴏᴛ";
 
         /** Thumbnail  **/
         global.giflogo = (VideoGalau());
@@ -177,7 +177,7 @@ async function loadConfig() {
         global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"]);
         global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚";
         global.stickpack = packname;
-        global.author = "𝑻𝒂𝒚𝒍𝒐𝒓 乂 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕";
+        global.author = "Aril 乂 KUNASOFT";
         global.stickauth = author + "\nwa.me/" + nomorbot;
         global.multiplier = 69;
 
@@ -190,7 +190,7 @@ async function loadConfig() {
         global.gcwangsaf = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph";
 
         /** Donasi  **/
-        global.saweria = "https://saweria.com/wudysoft";
+        global.saweria = "https://socialbuzz.com/arilnarindra";
         global.dana = "0887435373103";
         global.pulsa = "082195322106";
         global.trakteer = "https://trakteer.id/wudysoft";
